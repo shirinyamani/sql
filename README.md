@@ -1,4 +1,5 @@
 # SQL: Structured Query Language 🏛️
+![sql](./img/2.jpeg)
 
 ## Biggest difference SQL vs other languages like python 🐍: 
 
