@@ -8,12 +8,12 @@
 The `syntax` of SQL focuses on the logic of **grouping**; while most other programming languages focus more on **procedure**, which uses linear thinking. So even if we are already good at writing one programming language, some effort will still be required to become familiar with SQL. 
 
 ## Content
-1. [SQL Data Structure](sql_data_structure.sql)
+1. **SQL Data Structure**
     - Schema
     - Table
     - Column
 
-2. [SQL SynTax](sql_syntax.sql)
+2. **SQL SynTax**
 3. TO BE ADDED...
 
 
