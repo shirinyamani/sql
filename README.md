@@ -13,8 +13,9 @@ The `syntax` of SQL focuses on the logic of **grouping**; while most other progr
     - Table
     - Column
 
-2. **SQL SynTax**
-3. TO BE ADDED...
+2. **GROUP BY**
+3. **WHERE clause**
+4. **JOIN clause**
 
 
 ## General DataBase Structure
